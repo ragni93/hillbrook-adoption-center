@@ -11,6 +11,7 @@ const NavMenu = () => {
         <Nav className="me-auto">
           <Nav.Link href="/">Home</Nav.Link>
           <Nav.Link href="/animals">Available for adoption</Nav.Link>
+          <Nav.Link href="/form">Adoption Form</Nav.Link>
 
           <NavDropdown title="More" id="basic-nav-dropdown">
             <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>

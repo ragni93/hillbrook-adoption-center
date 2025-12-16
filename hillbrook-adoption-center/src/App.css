@@ -20,16 +20,16 @@ a:hover {
 .app-container {
   margin-left: 10rem;
   margin-right: 10rem;
-  padding: 3rem;
-  border: 1px dotted rgb(47, 0, 255); /* debug border */
+  padding: 0rem 2rem 2rem 2rem;
+  border: 0px dotted rgb(47, 0, 255); /* debug border */
 }
 
 
 .navbar {
   margin-left: 10rem;
   margin-right: 10rem;
-  padding: 3rem;
-  border: 1px dotted red; /* debug border */
+  padding: 1rem;
+  border: 0px dotted red; /* debug border */
 }
 
 
