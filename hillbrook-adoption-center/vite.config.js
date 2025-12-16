@@ -5,7 +5,7 @@ export default {
   server: {
     proxy: {
       "/api": {
-        target: "https://localhost:5187",
+        target: "http://localhost:5187",
         changeOrigin: true,
         secure: false
       }
