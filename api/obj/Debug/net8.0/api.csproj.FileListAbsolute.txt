@@ -132,3 +132,4 @@
 /Users/ragnieliassen/Documents/Kodeprosjekter/HillBrook Adoption Center/hillbrook-adoption-center/api/obj/Debug/net8.0/api.pdb
 /Users/ragnieliassen/Documents/Kodeprosjekter/HillBrook Adoption Center/hillbrook-adoption-center/api/obj/Debug/net8.0/api.genruntimeconfig.cache
 /Users/ragnieliassen/Documents/Kodeprosjekter/HillBrook Adoption Center/hillbrook-adoption-center/api/obj/Debug/net8.0/ref/api.dll
+/Users/ragnieliassen/Documents/Kodeprosjekter/HillBrook Adoption Center/hillbrook-adoption-center/api/obj/Debug/net8.0/api.sourcelink.json

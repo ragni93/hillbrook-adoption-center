@@ -1,3 +1,4 @@
+import React from 'react'
 import './App.css'
 import HomePage from './pages/HomePage' //importerer HomePage-komponenten
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom' //provides routing funcionality
