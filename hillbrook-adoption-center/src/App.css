@@ -1,0 +1,38 @@
+
+
+.logo {
+  height: 12em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+
+.app-container {
+  margin-left: 10rem;
+  margin-right: 10rem;
+  padding: 3rem;
+  border: 1px dotted rgb(47, 0, 255); /* debug border */
+}
+
+
+.navbar {
+  margin-left: 10rem;
+  margin-right: 10rem;
+  padding: 3rem;
+  border: 1px dotted red; /* debug border */
+}
+
+
+
+
+
